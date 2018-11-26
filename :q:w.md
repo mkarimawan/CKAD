@@ -22,6 +22,13 @@ You need to have a Kubernetes cluster, and the kubectl command-line tool must be
 
 ***Note: Both katacoda and PWK are free, you just need Google/GitHub/Docker account login to access.***
 
+##Few additional Resources
+* [K8s from Scratch](https://kubernetes.io/docs/setup/scratch/)
+* [K8s Up & Running book by Hightower](http://shop.oreilly.com/product/0636920043874.do)
+* [K8s the Hard way tutorial by Hightower](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+
+**Practice, Practice and Practice** 
+
 # CKAD Curriculum V1.0
 
 ## Core Concepts - 13%
